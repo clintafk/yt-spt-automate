@@ -1,1 +1,1 @@
-# yt-spt-automate
+# Youtube to Spotify Automation
